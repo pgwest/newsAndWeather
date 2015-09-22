@@ -1,3 +1,6 @@
+//Code located at https://github.com/pgwest/newsAndWeather
+
+
 var main = function (){
     $('.article').click(function(){
         $('.article').removeClass('current');
